@@ -1,2 +1,2 @@
 # freqtrade
-practicing and playing with freqtrade trading bot
+Practicing and playing with freqtrade trading bot
